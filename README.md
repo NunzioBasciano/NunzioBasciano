@@ -21,7 +21,7 @@ Negli anni ho deciso di diventare uno sviluppatore. Ho cominciato a sporcarmi le
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/nunzio-basciano" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="/nunzio-basciano"/></a>
+<a href="https://www.linkedin.com/in/nunzio-basciano" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="/nunzio-basciano"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
