@@ -25,7 +25,7 @@ Negli anni ho deciso di diventare uno sviluppatore. Ho cominciato a sporcarmi le
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<br/><br/>
+
 <span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</span>
 <span>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</span>
 <span>![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</span>
