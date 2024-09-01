@@ -18,6 +18,7 @@ Ciao, sono Nunzio e mi occupo di Sviluppo Front-End.
 
 Da sempre sono appassionato di tecnologia ed elettronica, dalle prime console soltanto viste perché troppo piccolo per giocarci, al primo computer martoriato dalle ore di attività e dai miei maldestri tentativi di upgrade. 
 Negli anni ho deciso di diventare uno sviluppatore. Ho cominciato a sporcarmi le mani, guardare video, impazzire per i primi problemi da risolvere e soprattutto, continuando ad appassionarmi sempre di più.
+<hr/>
 <span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</span>
 <span>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</span>
 <span>![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</span>
